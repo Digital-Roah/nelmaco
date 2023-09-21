@@ -426,6 +426,18 @@ body p {
     color: #120a63;
     font-family: 'Mooli', sans-serif;
     font-size: 15px;
+    text-decoration: none;
+    border: 1px solid #120a63;
+    border-radius: 0px;
+}
+
+.service-content .read-more span {
+  font-size: 14px;
+}
+
+.service-content .read-more:hover {
+  color: white;
+  background: #120a63;
 }
 
 .btn-see-all {
